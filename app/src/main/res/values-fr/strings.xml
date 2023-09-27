@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carte de Ho Chi Minh-ville</string>
+    <string name="welcome">Bienvenue à Hô-Chi-Minh-Ville</string>
+    <string name="here">Vous êtes dans le District 1</string>
+    <string name="locate">Localiser</string>
+</resources>
